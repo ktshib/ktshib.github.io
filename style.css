@@ -157,6 +157,9 @@ hr {
     padding: 0;
     flex-wrap: wrap;
 }
+.story__img {
+    width: 30%;
+}
 .blog {
     background-color: #EFEFEF;
     padding: 60px 0;
