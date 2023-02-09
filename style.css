@@ -158,7 +158,8 @@ hr {
     flex-wrap: wrap;
 }
 .story__img {
-    width: 30%;
+    width: 50%;
+    
 }
 .blog {
     background-color: #EFEFEF;
