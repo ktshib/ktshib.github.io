@@ -113,17 +113,19 @@ input::placeholder{
 .header {
     background-color: #FFFFFF;
     padding: 30px 0;
+    align-items: center;
+    align-content: center;
 }
 .header__nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-wrap: wrap;
 }
 .list {
     list-style: none;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .article__1 {
     background: url("image\ 1.jpg");
