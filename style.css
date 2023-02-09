@@ -113,6 +113,8 @@ input::placeholder{
 .header {
     background-color: #FFFFFF;
     padding: 30px 0;
+    align-items: center;
+    align-content: center;
 }
 .header__nav {
     display: flex;
@@ -209,5 +211,23 @@ hr {
     width: 70%;
     margin-top: 10px;
     margin-left: 10px;
+    }
+    .menu__link {
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 35px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+    .menu__link {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 35px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
     }
 }
